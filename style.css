@@ -1,0 +1,24 @@
+body{
+  text-align: center;
+  background-image:  url('b.jpg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+}
+div{
+  background-color: darkgrey;
+  opacity: 0.8;
+}
+h1{
+  color: red;
+}
+h3{
+  color: orange;
+}
+label{
+   color: yellow;
+   font-size: 35px;
+}
+span{
+   color: orangered
+   font-size: 35px;
+}
